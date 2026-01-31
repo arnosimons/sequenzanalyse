@@ -11,5 +11,5 @@ __all__ = [
     "analyse",
     "analyse_als_json_speichern",
     "txt_sequenzierung",
-    "get_meta_free_dict",
+    "remove_responses_meta",
 ]
